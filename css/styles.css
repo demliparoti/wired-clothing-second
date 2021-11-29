@@ -109,13 +109,16 @@ header .caja1 .listaMenu ul li a:hover {
 }
 
 .parrafoDisenos {
-  padding-top: 10px;
+  padding-top: 30px;
+  display: flex;
+  justify-content: center;
 }
 .parrafoDisenos .textoDisenos {
   text-decoration: none;
   font-family: "Mukta", sans-serif;
   font-weight: bolder;
-  font-size: 20px;
+  font-size: 18px;
+  text-align: center;
 }
 
 .nosotros .titularNosotros {
