@@ -1,0 +1,152 @@
+.nosotros .titularNosotros .seccionNosotros div .textoNosotros, .carrouselImg .filaContenedor .columnaContenedor .titularCarrousel .parrafoCarrousel {
+  font-family: "Roboto", sans-serif;
+  font-size: 70px;
+  text-decoration: none;
+}
+
+header .caja1 {
+  background-color: #19257c;
+}
+header .caja1 a .imagenLogo {
+  width: 100px;
+  margin-left: 5px;
+}
+header .caja1 .listaMenu ul li a {
+  color: white;
+  font-family: "Mukta", sans-serif;
+  font-weight: bold;
+}
+header .caja1 .listaMenu ul li a:hover {
+  background-color: wheat;
+  color: black;
+  padding: 7px;
+  transform: scale(1.2);
+  transition: all 1s;
+  border-radius: 40px;
+}
+
+/*
+.imagenLogo {
+    width: 100px;
+    margin-left: 5px;
+}
+
+.listaMenu {
+    color: white;
+    font-family: 'Mukta', sans-serif;
+    font-weight: bold;
+}
+
+.listaMenu li {
+    padding-left: 15px;
+}
+
+.listaMenu a {
+    color: white;
+    text-decoration: none;
+}
+
+.listaMenu a:hover {
+    background-color: wheat;
+    color: black;
+    padding: 7px;
+    transform: scale(1.2);
+    transition: all 1s;
+    border-radius: 40px;
+}
+*/
+/* Titular */
+.caja2 {
+  margin-top: 5px;
+}
+.caja2 .titularCaja2 {
+  font-size: 30px;
+  font-family: "Roboto", sans-serif;
+  font-style: bold;
+  color: cornflowerblue;
+  text-align: center;
+}
+
+/* Carrousel */
+.carrouselImg .filaContenedor .columnaContenedor .titularCarrousel {
+  font-family: "Mukta", sans-serif;
+  font-size: 27px;
+  font-weight: bold;
+}
+.formularioContainer {
+  width: 500px;
+  margin: 20px auto;
+  font-family: "Roboto", sans-serif;
+  text-align: center;
+  padding: 0 auto;
+}
+.formularioContainer .titularFormulario {
+  font-size: 40px;
+  font-family: "Roboto", sans-serif;
+  font-style: bold;
+  color: cornflowerblue;
+  text-align: center;
+}
+.formularioContainer .titularFormulario .formulario .elementoFormulario {
+  width: 100%;
+  border-radius: 7px;
+  border: 0.5px solid black;
+  padding: 9px;
+  margin: auto;
+  margin-top: 9px;
+}
+.formularioContainer .titularFormulario .formulario .boton {
+  margin-top: 5px;
+  width: 100px;
+  padding: 9px;
+  border-radius: 7px;
+  border-style: 0.7px solid cornflowerblue;
+  background-color: cornflowerblue;
+  font-size: 20px;
+  font-family: "Mukta", sans-serif;
+  color: white;
+  font-weight: bolder;
+}
+
+.nosotros .titularNosotros {
+  text-decoration: none;
+  font-family: "Mukta", sans-serif;
+  font-weight: bolder;
+  color: cornflowerblue;
+}
+.nosotros .titularNosotros .seccionNosotros {
+  background-color: cornflowerblue;
+}
+/* Footer */
+.footerContainer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: cornflowerblue;
+  color: white;
+}
+.footerContainer .listaRrss {
+  margin-top: 10px;
+  list-style: none;
+}
+.footerContainer .listaRrss .listaRrssElemento {
+  margin-top: 3px;
+}
+.footerContainer .listaRrss .listaRrssElemento a {
+  text-decoration: none;
+  color: white;
+}
+.footerContainer .menuFooter {
+  margin-right: 10px;
+}
+.footerContainer .menuFooter li {
+  list-style: none;
+  margin-top: 7px;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+/*# sourceMappingURL=styles.css.map */
