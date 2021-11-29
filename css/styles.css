@@ -108,6 +108,16 @@ header .caja1 .listaMenu ul li a:hover {
   font-weight: bolder;
 }
 
+.parrafoDisenos {
+  padding-top: 10px;
+}
+.parrafoDisenos .textoDisenos {
+  text-decoration: none;
+  font-family: "Mukta", sans-serif;
+  font-weight: bolder;
+  font-size: 20px;
+}
+
 .nosotros .titularNosotros {
   text-decoration: none;
   font-family: "Mukta", sans-serif;
